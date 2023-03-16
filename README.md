@@ -18,7 +18,7 @@ Generate several multi layer perceptron neural networks using Pytorch to perform
 
 In this notebook we are going to learn how to use a Multi-Layer Perceptron (MLP) (Fully-Connected, Feed-Forward Network) for classifying images.
 
-An MLP like the ones you used in the notebook of last week can be used with any kind of input data if we can represent it as a vector of real numbers. The shape of the input vector determines the size of the first layer in the model.
+An MLP can be used with any kind of input data if we can represent it as a vector of real numbers. The shape of the input vector determines the size of the first layer in the model.
 
 In the case of images (2D arrays of pixel values) we can get fixed-length vectors by: (1) using always images of the same size, and (2) flatenning the images into a 1D array. The flatten operation collapses an array into one dimension. For example, if we have a grayscale image of  28×28  pixels, its flattened version is a 1d array of  784  pixel values. Now we can fed these  784  values into a MLP for classifiying the image.
 
