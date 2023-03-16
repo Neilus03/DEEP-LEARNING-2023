@@ -11,7 +11,8 @@ Dimosthenis Karatzas.
 
 Generate several multi layer perceptron neural networks using Pytorch to perform classification and regression, make visualizations and understand and explain what happens. Run it on colab to see al the visualizations.
 
-https://github.com/Neilus03/DEEP-LEARNING-22-23/blob/main/Intro_MLP_Neil.ipynb
+
+[Notebook solved](https://github.com/Neilus03/DEEP-LEARNING-22-23/blob/main/Intro_MLP_Neil.ipynb)
 
 ### 2. MLP for images:
 
