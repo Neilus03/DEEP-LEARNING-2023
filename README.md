@@ -21,4 +21,5 @@ An MLP like the ones you used in the notebook of last week can be used with any 
 
 In the case of images (2D arrays of pixel values) we can get fixed-length vectors by: (1) using always images of the same size, and (2) flatenning the images into a 1D array. The flatten operation collapses an array into one dimension. For example, if we have a grayscale image of  28×28  pixels, its flattened version is a 1d array of  784  pixel values. Now we can fed these  784  values into a MLP for classifiying the image.
 
-https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/P4_MLP_for_Images_Neil.ipynb
+
+[Notebook solved](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/P4_MLP_for_Images_Neil.ipynb)
