@@ -24,3 +24,5 @@ In the case of images (2D arrays of pixel values) we can get fixed-length vector
 
 
 [Notebook solved](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/P4_MLP_for_Images_Neil.ipynb)
+
+### 3. Introduction to Convolutional Neural networks:
