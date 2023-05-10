@@ -27,3 +27,7 @@ In the case of images (2D arrays of pixel values) we can get fixed-length vector
 
 ### 3. Introduction to Convolutional Neural networks:
 CNN intro
+
+### 4. RNN
+
+### 5. Attention
