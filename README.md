@@ -1,9 +1,6 @@
 # DEEP-LEARNING-2023
 A series of notebooks that constitute the coding assignments for Deep learning and Neural Networks subject in Artificial Intelligence degree (UAB).
 
-## Professor and provider of notebooks:
-
-Dimosthenis Karatzas.
 
 ## Assignments:
 
@@ -30,11 +27,41 @@ In the case of images (2D arrays of pixel values) we can get fixed-length vector
 
 
 ### 3. Introduction to Convolutional Neural networks:
-CNN introyet to be loaded
+|Intro to CNN Notebooks|
+|------------------------------------------------|
+| [Unsolved Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Solved_Notebooks/P5_Intro_to_CNN_Neil.ipynb) |
+| [Solved_Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Unsolved_Notebooks/P5_Intro_to_CNN.ipynb) |
 
-### 4. RNN
+### 4. Convolutional Neural Networks with pretrained models:
 
-### 5. Attention
+|Pretrained CNN Notebooks|
+|------------------------------------------------|
+| [Unsolved Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Unsolved_Notebooks/P6_CNN_PretrainedModels.ipynb) |
+| [Solved_Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Solved_Notebooks/P6_CNN_PretrainedModels_Neil.ipynb) |
+
+### 5. Autoencoders:
+
+|Autoencoders Notebooks|
+|------------------------------------------------|
+| [Unsolved Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Unsolved_Notebooks/P7_Autoencoders.ipynb) |
+| [Solved_Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Solved_Notebooks/P7_Autoencoders_Neil.ipynb) |
+
+### 6. Recurrent Neural Networks for language modelling:
+
+|RNNs Notebooks|
+|------------------------------------------------|
+| [Unsolved Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Unsolved_Notebooks/P8_RNNs.ipynb) |
+| [Solved_Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Solved_Notebooks/P8_RNNs_Neil.ipynb) |
 
 
 
+### 7. Attention
+
+|Attention Notebooks|
+|------------------------------------------------|
+| [Unsolved Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Unsolved_Notebooks/P9_Attention.ipynb) |
+| [Solved_Notebook](https://github.com/Neilus03/DEEP-LEARNING-2023/blob/main/Solved_Notebooks/P9_Attention_Neil.ipynb) |
+
+#### Professor and provider of notebooks:
+
+Dimosthenis Karatzas.
