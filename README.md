@@ -31,3 +31,61 @@ CNN introyet to be loaded
 ### 4. RNN
 
 ### 5. Attention
+
+
+# DEEP-LEARNING-2023
+
+This repository contains a series of notebooks that constitute the coding assignments for the Deep Learning and Neural Networks course as part of the Artificial Intelligence degree program at UAB.
+
+## Professor and Provider of Notebooks
+
+**Professor:** Dimosthenis Karatzas
+
+## Assignments
+
+### P3. Introduction to Multilayer Perceptron (MLP)
+
+In this assignment, you'll explore the fundamentals of Multilayer Perceptron (MLP) neural networks using PyTorch for both classification and regression tasks. You'll also gain insights through visualizations and explanations of the network's behavior. The assignments can be run on Colab, enabling you to visualize the results effectively.
+
+- **Unsolved Notebook:** [P3_Intro_MLP.ipynb](./Unsolved_Notebooks/P3_Intro_MLP.ipynb)
+
+### P4. MLP for Images
+
+This assignment introduces the use of a Multi-Layer Perceptron (MLP) or Fully-Connected Feed-Forward Network for image classification. MLPs can handle various types of input data when represented as real-number vectors. In the case of images, the key is to flatten them into 1D arrays and use them as input to the MLP. This notebook focuses on classifying images using MLPs.
+
+- **Unsolved Notebook:** [P4_MLP_for_Images.ipynb](./Unsolved_Notebooks/P4_MLP_for_Images.ipynb)
+
+### P5. Introduction to Convolutional Neural Networks (CNN)
+
+This section will introduce Convolutional Neural Networks (CNNs). Details and assignments related to CNNs are forthcoming.
+
+- **Unsolved Notebook:** [P5_Intro_to_CNN.ipynb](./Unsolved_Notebooks/P5_Intro_to_CNN.ipynb)
+
+### P6. Pretrained Models with CNNs
+
+This assignment will focus on using pretrained models with Convolutional Neural Networks (CNNs). More information and assignments related to this topic will be added.
+
+- **Unsolved Notebook:** [P6_CNN_PretrainedModels.ipynb](./Unsolved_Notebooks/P6_CNN_PretrainedModels.ipynb)
+
+### P7. Autoencoders
+
+Autoencoders are a type of neural network used in unsupervised learning. In this section, you'll learn about autoencoders and their applications. Assignments and notebooks related to autoencoders will be included.
+
+- **Unsolved Notebook:** [P7_Autoencoders.ipynb](./Unsolved_Notebooks/P7_Autoencoders.ipynb)
+
+### P8. Recurrent Neural Networks (RNN)
+
+The RNN section will delve into Recurrent Neural Networks, a class of neural networks particularly well-suited for sequential data. Details and assignments for RNNs will be provided here.
+
+- **Unsolved Notebook:** [P8_RNNs.ipynb](./Unsolved_Notebooks/P8_RNNs.ipynb)
+
+### P9. Attention Mechanisms
+
+This section will cover the concept of attention mechanisms in deep learning, which have been pivotal in various natural language processing tasks. Further details and assignments on attention mechanisms will be added.
+
+- **Unsolved Notebook:** [P9_Attention.ipynb](./Unsolved_Notebooks/P9_Attention.ipynb)
+
+---
+
+Feel free to update and expand this README as you add more assignments and content to your repository. Providing clear explanations and links to your unsolved notebooks will help users understand and engage with your materials effectively.
+
