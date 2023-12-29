@@ -3,7 +3,7 @@ A series of notebooks that constitute the coding assignments for Deep learning a
 
 ## Assignments
 
-### 1. Multilayer Perceptron
+### 1. Multilayer Perceptron 
 
 Generate several Multilayer Perceptron (MLP) neural networks using PyTorch to perform classification and regression tasks, create visualizations, and gain insights into network behavior. Run it on Colab to visualize the results effectively.
 
